@@ -1,0 +1,30 @@
+* {
+    font-family: cursive;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.button {
+    background-color: black;
+    color: beige;
+    padding: 15px;
+    font-weight: bold;
+    font-size: large;
+    border-radius: 10%;
+    margin-bottom: 20px;
+}
+
+.para {
+    font-weight: bold;
+    font-size: large;
+}
